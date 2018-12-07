@@ -1,17 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ItemListEditor
-{
-	public static class Defines
-	{
-		public static void ItemEffects(ComboBox CB)
-		{
-			CB.Items.AddRange(new String[] {
+namespace ItemListEditor {
+	public static class Defines {
+		public static void ItemEffects ( ComboBox CB ) {
+			try {
+				CB.Items.AddRange ( new string [] {
 				"EF_NONE",
 				"EF_LEVEL",
 				"EF_DAMAGE",
@@ -139,7 +133,11 @@ namespace ItemListEditor
 				"EF_COLOR8",
 				"EF_COLOR9",
 				"EF_COLOR0"
-			});
+			} );
+			}
+			catch ( Exception ex ) {
+				MessageBox.Show ( ex.Message );
+			}
 		}
 	}
 }

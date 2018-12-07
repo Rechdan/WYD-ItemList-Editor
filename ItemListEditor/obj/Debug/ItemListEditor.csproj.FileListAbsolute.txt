@@ -10,3 +10,12 @@ C:\Users\rechd\Documents\Visual Studio 2015\Projects\ItemListEditor\ItemListEdit
 K:\__Documentos\Projects\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe.config
 K:\__Documentos\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.exe
 K:\__Documentos\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.pdb
+D:\VS\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe.config
+D:\VS\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe
+D:\VS\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.pdb
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.FormItemList.resources
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.Properties.Resources.resources
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.csproj.GenerateResource.cache
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.csproj.CoreCompileInputs.cache
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.exe
+D:\VS\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.pdb
