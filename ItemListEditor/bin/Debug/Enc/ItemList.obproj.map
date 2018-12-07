@@ -1,0 +1,320 @@
+﻿<Mappings><Entry OldName="ItemListEditor.st_ItemList.Item" NewName="A.c4384aa9a1d203b1fe253bf193785f380.c5614d6ebdbeba6214c4706a3e264f0c6" />
+<Entry OldName="ItemListEditor.st_ItemList.CheckSum" NewName="A.c4384aa9a1d203b1fe253bf193785f380.cd15c6410ed55b15797c5fc1a15dd3b5d" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Name" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c13d11d4854b5de07a72421186a4b85ed" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Mesh" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.ce86d040f9188880b55fdc0aa22792213" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Texture" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.cddb3d316ddd1f6f22a4ebc8efff7066e" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Level" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c25bcea287702206bd5f458179bb41c27" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Str" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c8dcfafbf4350007b50b2542f0bd75ce1" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Int" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c45c443a49a43cc14f169f51d8545e36f" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Dex" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c883d76fd3cf353a447c3caa6b4363474" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Con" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c6f91321cb558602aad5b52f6bb1607d8" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Effect" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c311d953e856b27805d1728d7f3b29a41" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Price" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c88bdf36ad3f119ebcc6e1aa78ab5e89b" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Unique" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.ca796b67383f173fd01fb192e17d9d9d4" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Pos" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c1354ee4cc9f003276b2af5d612607905" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Extreme" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c84ae18337a27c7d5a8f32adbdce70e14" />
+<Entry OldName="ItemListEditor.st_ItemListItem.Grade" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.c25d6a74ef5ccf2a05978b03b6426d07f" />
+<Entry OldName="ItemListEditor.st_ItemListEffects.Index" NewName="A.cac1d6f58bdf97b23c2885c3bdf62d746.c85cf5a09c926a51e38a8b82ae72b57c0" />
+<Entry OldName="ItemListEditor.st_ItemListEffects.Value" NewName="A.cac1d6f58bdf97b23c2885c3bdf62d746.ccc12781a0346596b95732bb18bdaa932" />
+<Entry OldName="ItemListEditor.Form1.FilePath" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c5b853567f2c229e69eaef11aecc16367" />
+<Entry OldName="ItemListEditor.Form1.List" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cd1a0c71ddb5d3c27ab2ef899f1cbcaee" />
+<Entry OldName="ItemListEditor.Form1.Editing" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4cc841b0ff2ba7275ba2301c2d07431d" />
+<Entry OldName="ItemListEditor.Form1.components" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c804b54c23c7d0cfb66117d3f9217f6f5" />
+<Entry OldName="ItemListEditor.Form1.listBox" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb77a4422c4d214b02963a4e51e6d3200" />
+<Entry OldName="ItemListEditor.Form1.label1" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c93877547f2d2779af60d10dd5f289129" />
+<Entry OldName="ItemListEditor.Form1.name" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cf9b295642cace910f93cea0ba91e3a46" />
+<Entry OldName="ItemListEditor.Form1.label2" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc1d7dbf7b654b9be72c58eb3d4df8c19" />
+<Entry OldName="ItemListEditor.Form1.label3" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c1fe6fa058c8b7c8f19efae2aef8bc018" />
+<Entry OldName="ItemListEditor.Form1.label4" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cbe1c2ab97c7e3ad4f387a2a904fd21cb" />
+<Entry OldName="ItemListEditor.Form1.label5" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ca41b6b502dbff976c99b180b4cff93c8" />
+<Entry OldName="ItemListEditor.Form1.label6" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c426e1ea21837f85cfe7a71cd3cb88b0d" />
+<Entry OldName="ItemListEditor.Form1.label7" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c59d5184cce49eaf2c106e735ebf378f6" />
+<Entry OldName="ItemListEditor.Form1.label8" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0b8041349e15ca1bfb7263a572bc6f03" />
+<Entry OldName="ItemListEditor.Form1.label9" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c9a1040de6c14a1d378ecac76b94cc36b" />
+<Entry OldName="ItemListEditor.Form1.label10" NewName="A.c15b86d7d0c75162700aa328bc7917e02.caef7c4cb9bbbdcb3aa54d4b4a8a294e5" />
+<Entry OldName="ItemListEditor.Form1.label11" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cefb12982d57a3f2b62790e6b47a9110d" />
+<Entry OldName="ItemListEditor.Form1.label12" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4415ce79110ab2fe1b50f16e22d32bd4" />
+<Entry OldName="ItemListEditor.Form1.label13" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c462c2e49f2006b605c4b788e687c481b" />
+<Entry OldName="ItemListEditor.Form1.EF1" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c6baa04e13440079240f2aafee08d9f56" />
+<Entry OldName="ItemListEditor.Form1.label14" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cd4d9e8b0e1776ceb98e10eed670e5937" />
+<Entry OldName="ItemListEditor.Form1.label15" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c89d7db62993e57151be0bab22b116e90" />
+<Entry OldName="ItemListEditor.Form1.EF2" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb04b9127faa33e959a42817e7d2afb72" />
+<Entry OldName="ItemListEditor.Form1.label16" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c6cda9bed4e833d0eb779ea70bc186f88" />
+<Entry OldName="ItemListEditor.Form1.EF3" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c3da268ebc0c3977d12b273e59a714e55" />
+<Entry OldName="ItemListEditor.Form1.label17" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cbc50aa42328419477b1371203f4dac0a" />
+<Entry OldName="ItemListEditor.Form1.EF4" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c2ee610e13f9567c0b4ee0371ab2f1556" />
+<Entry OldName="ItemListEditor.Form1.label18" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c2462cff62aa7a210358bac6fa4c308dd" />
+<Entry OldName="ItemListEditor.Form1.EF5" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c5c21eb531f098bc64359eff7b5b5109b" />
+<Entry OldName="ItemListEditor.Form1.label19" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c04351de26c9687f8800a631fb2bbc490" />
+<Entry OldName="ItemListEditor.Form1.EF6" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cdf17f66985674965160475cd72627b62" />
+<Entry OldName="ItemListEditor.Form1.label20" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c12563e1e07c5d21b196578900110cace" />
+<Entry OldName="ItemListEditor.Form1.EF7" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c69b3973cd682cb41011db7c8a90d8d83" />
+<Entry OldName="ItemListEditor.Form1.label21" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cde9b1d6f7274c9e6865a8bb49629ea97" />
+<Entry OldName="ItemListEditor.Form1.EF8" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c6448dc72808aa53fe5a0c89d32a48240" />
+<Entry OldName="ItemListEditor.Form1.label22" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c76baf4e69c236ba834a002e6567ba3a5" />
+<Entry OldName="ItemListEditor.Form1.EF9" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ce24c21dd33e64069d36b7afc3a8ad182" />
+<Entry OldName="ItemListEditor.Form1.label23" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ca245a4ea150a0711c4d3af47b528bd40" />
+<Entry OldName="ItemListEditor.Form1.EF10" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c2931fb3df6173a91abbaa3dfa074d14e" />
+<Entry OldName="ItemListEditor.Form1.label24" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c90c256d142d79d5b4196c3c8cef16670" />
+<Entry OldName="ItemListEditor.Form1.EF11" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4b8cfbee265f23474235c390cbe2802b" />
+<Entry OldName="ItemListEditor.Form1.label25" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ccab0bc20436c014b51db61b874b30563" />
+<Entry OldName="ItemListEditor.Form1.EF12" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c95dc301917575c18d72781fba358dd48" />
+<Entry OldName="ItemListEditor.Form1.groupBox1" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc599256df85bfe4ae4b9fbbf7d035311" />
+<Entry OldName="ItemListEditor.Form1.groupBox2" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4861842cb8fa91affa3018f37eba7f14" />
+<Entry OldName="ItemListEditor.Form1.label26" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c44c95bf915b41ef99192d8d2e2b93ca4" />
+<Entry OldName="ItemListEditor.Form1.EFV12" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cbc1276d3d9c7bbc4f5644e0738a1365b" />
+<Entry OldName="ItemListEditor.Form1.EFV11" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0e594092cecb01d895936a969d9136e4" />
+<Entry OldName="ItemListEditor.Form1.EFV10" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c46fb8c4063c550c1c5df527eb12e7a52" />
+<Entry OldName="ItemListEditor.Form1.EFV9" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ccbaafc5b6b2b8271bb41c49a3e1b28ef" />
+<Entry OldName="ItemListEditor.Form1.EFV8" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c7e2fb2ce0477cead487d80088a0d2ee4" />
+<Entry OldName="ItemListEditor.Form1.EFV7" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cd192d0fa0f93201fab5a838d3250ad45" />
+<Entry OldName="ItemListEditor.Form1.EFV6" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c8c2a204b6e1dd2f92442fd3b8526635e" />
+<Entry OldName="ItemListEditor.Form1.EFV5" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c19f88fd3ca63f9330b5630903bfcdd06" />
+<Entry OldName="ItemListEditor.Form1.EFV4" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c292a3dbdb1995a3c06402e302875b186" />
+<Entry OldName="ItemListEditor.Form1.EFV3" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c2d9cb2acb325401cdac51f8239c3000d" />
+<Entry OldName="ItemListEditor.Form1.EFV2" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ccfcf85b7d76268c7451d17d3be60645a" />
+<Entry OldName="ItemListEditor.Form1.EFV1" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0382ad22c8a488161b028f1ad53c8822" />
+<Entry OldName="ItemListEditor.Form1.grau" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c871cf191d7c51b642bbb9b0dd1f90687" />
+<Entry OldName="ItemListEditor.Form1.anct" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cf7705fcd478f8bf27cb4ad90af5c971f" />
+<Entry OldName="ItemListEditor.Form1.unique" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c6c9434b4d868faab0296ce39234301c1" />
+<Entry OldName="ItemListEditor.Form1.preco" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c48767df4bb27b6b24a74e7adbe49f14a" />
+<Entry OldName="ItemListEditor.Form1.constituicao" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c8fa090325f5b79b388bb6e16e4fa8a60" />
+<Entry OldName="ItemListEditor.Form1.destreza" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cda62a6f8d36792b5ad831a8ef82a5619" />
+<Entry OldName="ItemListEditor.Form1.inteligencia" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb8027746f68343346b349e6439b90429" />
+<Entry OldName="ItemListEditor.Form1.forca" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c3373f8b5e1c16a7b07a0996d481c66eb" />
+<Entry OldName="ItemListEditor.Form1.level" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0ca44ae9661fed4bfe2aa7cb058d4577" />
+<Entry OldName="ItemListEditor.Form1.textura" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c3a657138d6efd3f0f5de6d9dfd733be2" />
+<Entry OldName="ItemListEditor.Form1.mesh" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c1d9c1ee01de5e67ead94de421cc96813" />
+<Entry OldName="ItemListEditor.Form1.save" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4c390a472eb8cff4f5f0c5b177775ab3" />
+<Entry OldName="ItemListEditor.Form1.cancel" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c6a337cc86c2079e6923cb873749f2e10" />
+<Entry OldName="ItemListEditor.Form1.saveall" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c963a655535b6cd67ea92ed35a3759f17" />
+<Entry OldName="ItemListEditor.Form1.groupBox3" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c35d183dcac36f42f38ba5672cd7c4454" />
+<Entry OldName="ItemListEditor.Form1.label27" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc44d0a296b5b35fc84a347dbf060a7df" />
+<Entry OldName="ItemListEditor.Form1.slot15" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ce12fc7464115ce53789277c77e51682b" />
+<Entry OldName="ItemListEditor.Form1.slot14" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cbc6b8315782d90ba5812f3a1523e4ea1" />
+<Entry OldName="ItemListEditor.Form1.slot13" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ca3e0a3d71426ad5a8c1dd6a4dee6f4a6" />
+<Entry OldName="ItemListEditor.Form1.slot12" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c9728d9ddfad324a57262354c5c9f7be6" />
+<Entry OldName="ItemListEditor.Form1.slot11" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc637577301ebb798baf907f1966ae2a7" />
+<Entry OldName="ItemListEditor.Form1.slot10" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0043a0dce1359a411db2830fda4de252" />
+<Entry OldName="ItemListEditor.Form1.slot9" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c2294b3be642b9599b98dc9e21f78b69e" />
+<Entry OldName="ItemListEditor.Form1.slot8" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c0b517bd6da44cd5dd25cc6b0560c690f" />
+<Entry OldName="ItemListEditor.Form1.slot7" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c8099a6d44e476b66ff4a835f1b4cff57" />
+<Entry OldName="ItemListEditor.Form1.slot6" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c9a129e51ff861ecbe0063c6b9cb6bb61" />
+<Entry OldName="ItemListEditor.Form1.slot5" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ca51117d729db4ef54a195600893e4008" />
+<Entry OldName="ItemListEditor.Form1.slot4" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc07701656256b0d4995467bab68f4bf7" />
+<Entry OldName="ItemListEditor.Form1.slot3" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c61c8746bcf87a15ef91d42a71500979c" />
+<Entry OldName="ItemListEditor.Form1.slot2" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c72f83eeb4797bfc33b386169b96f070e" />
+<Entry OldName="ItemListEditor.Form1.slot1" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cf18aab99d2e5cdb1c5f3eae778ea8759" />
+<Entry OldName="ItemListEditor.Form1.slot0" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ccb6e5b8452262174ed24dc03a82455c7" />
+<Entry OldName="ItemListEditor.Form1.posicao" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cdd26f7e0e32829a5882d9bfca62e4fe2" />
+<Entry OldName="ItemListEditor.Form1.export" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cdcdc3c7004b4abb6a42863dca67cb787" />
+<Entry OldName="ItemListEditor.Form1.groupBox4" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c71a778a4f807216a953529b4767ae957" />
+<Entry OldName="ItemListEditor.Form1.label28" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c01de2936aa151ea95a71fd2148e776d3" />
+<Entry OldName="ItemListEditor.Form1.groupBox5" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ceb6914c5b2a27dd608ef89f9e28eedb7" />
+<Entry OldName="ItemListEditor.Form1.itemBox" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ccbfed13d6e5ef55b5a4b76e972048ed3" />
+<Entry OldName="ItemListEditor.Form1.clean" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c975500280711cb3b920a0244f25af015" />
+<Entry OldName="ItemListEditor.Properties.Resources.resourceMan" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48.ca3ec5b7f280fdce3b61d139fdb91aa27" />
+<Entry OldName="ItemListEditor.Properties.Resources.resourceCulture" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48.c60fdb1fef62d8ca63345c78ac51b236f" />
+<Entry OldName="ItemListEditor.Defines.ItemEffects(ComboBox CB)" NewName="A.c692681de89a9b344259ef47d28aae3df.c793fb39137bb02385b00972dfa48ae12(ComboBox c6e2327dd0359df4f563c6f82b9662191)" />
+<Entry OldName="ItemListEditor.st_ItemListItem.New()" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f.cea551d4c5e67e7dbe2bfbb691cb36211()" />
+<Entry OldName="ItemListEditor.st_ItemListEffects.New()" NewName="A.cac1d6f58bdf97b23c2885c3bdf62d746.cea551d4c5e67e7dbe2bfbb691cb36211()" />
+<Entry OldName="ItemListEditor.Pak.ToStruct[T](Byte[] Data)" NewName="A.c9deeb70eb0f2922224535446af041f2a.c1b3e3d317e401df85566bef1fd5a85dc[c85f3433267ccf91f958b9d3c56ee1923](Byte[] c762a51120990d8773484062920b7245e)" />
+<Entry OldName="ItemListEditor.Pak.ToStruct[T](Byte[] Data, Int32 Start)" NewName="A.c9deeb70eb0f2922224535446af041f2a.c1b3e3d317e401df85566bef1fd5a85dc[c85f3433267ccf91f958b9d3c56ee1923](Byte[] c762a51120990d8773484062920b7245e, Int32 cee17da20b480cca36b91be6dcb5768ff)" />
+<Entry OldName="ItemListEditor.Pak.ToByteArray[T](T Struct)" NewName="A.c9deeb70eb0f2922224535446af041f2a.c20358c3a6d7095947f0a68f50015c051[c85f3433267ccf91f958b9d3c56ee1923](c85f3433267ccf91f958b9d3c56ee1923 c443fa19edb947b66b73d18178e0dd253)" />
+<Entry OldName="ItemListEditor.Form1..ctor()" NewName="A.c15b86d7d0c75162700aa328bc7917e02..ctor()" />
+<Entry OldName="ItemListEditor.Form1.FormShow(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb2be09a367b6b717f443a3c1b969b74f(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.ChangeItemSelect(Object sender, MouseEventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4d4abf6cf38f007f418309ebe1b05688(Object c7a4b9b7fe93faec1a09f7cc342104694, MouseEventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.SlotChange(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c718fdc5a4b4142d39321fc37ce0c175e(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.SaveItem(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb838a43895fe177c633b4359dec43976(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.CancelItem(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c013f489d750578a11dd60474f02a0c1b(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.CleanItem(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.ce280277dc70438911a3461fd20c7819b(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.SaveItemListCSV(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c352ff6fa55604d01247a82910491b2af(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.SaveItemListBIN(Object sender, EventArgs e)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c4b5da39211a540d08bccc6b53e721495(Object c7a4b9b7fe93faec1a09f7cc342104694, EventArgs c19991463a0b4a2d125ec921ac0771130)" />
+<Entry OldName="ItemListEditor.Form1.FixNumericValues()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c533cc91ef3d358f325c50b69449c2f0a()" />
+<Entry OldName="ItemListEditor.Form1.LoadItemList()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c96288790f0a8650463f490b0d258109b()" />
+<Entry OldName="ItemListEditor.Form1.LoadItem()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c86603797a28ed968bef0f6fdeb5763d4()" />
+<Entry OldName="ItemListEditor.Form1.SaveItem()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb838a43895fe177c633b4359dec43976()" />
+<Entry OldName="ItemListEditor.Form1.CheckPosition(UInt16 Pos)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cb91d62aca2d0887934840785b529e635(UInt16 c1354ee4cc9f003276b2af5d612607905)" />
+<Entry OldName="ItemListEditor.Form1.UpdatePosition()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c58a9bcad9b98c4a0858a7eea4cecd017()" />
+<Entry OldName="ItemListEditor.Form1.Dispose(Boolean disposing)" NewName="A.c15b86d7d0c75162700aa328bc7917e02.Dispose(Boolean disposing)" />
+<Entry OldName="ItemListEditor.Form1.InitializeComponent()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.c330eb55a6a33dc65dbe976d2e117cb0c()" />
+<Entry OldName="ItemListEditor.Form1.&lt;LoadItemList&gt;b__13_0()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cc97fed17aa631b6cc1befb7362503c6f()" />
+<Entry OldName="ItemListEditor.Form1.&lt;LoadItemList&gt;b__13_1()" NewName="A.c15b86d7d0c75162700aa328bc7917e02.cd1f50e699d80b7f80c630fe7660ef8b2()" />
+<Entry OldName="ItemListEditor.Program.Main()" NewName="A.c8e4840031b28986e3bb4791de0b06796.c188ed478e7826d593d5dd65de439ffb3()" />
+<Entry OldName="ItemListEditor.Properties.Resources..ctor()" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48..ctor()" />
+<Entry OldName="ItemListEditor.Properties.Resources.get_ResourceManager()" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48.get_ResourceManager()" />
+<Entry OldName="ItemListEditor.Properties.Resources.get_Culture()" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48.get_Culture()" />
+<Entry OldName="ItemListEditor.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48.set_Culture(CultureInfo value)" />
+<Entry OldName="ItemListEditor.Defines" NewName="A.c692681de89a9b344259ef47d28aae3df" />
+<Entry OldName="ItemListEditor.st_ItemList" NewName="A.c4384aa9a1d203b1fe253bf193785f380" />
+<Entry OldName="ItemListEditor.st_ItemListItem" NewName="A.c1fc062fe78fd69d41abce09f0e066f4f" />
+<Entry OldName="ItemListEditor.st_ItemListEffects" NewName="A.cac1d6f58bdf97b23c2885c3bdf62d746" />
+<Entry OldName="ItemListEditor.Pak" NewName="A.c9deeb70eb0f2922224535446af041f2a" />
+<Entry OldName="ItemListEditor.Form1" NewName="A.c15b86d7d0c75162700aa328bc7917e02" />
+<Entry OldName="ItemListEditor.Program" NewName="A.c8e4840031b28986e3bb4791de0b06796" />
+<Entry OldName="ItemListEditor.Properties.Resources" NewName="A.c3fc361b0988c660c2c4bb23d1f0a4c48" />
+<Assembly Name="ItemListEditor"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="ItemListEditor.Defines" />
+<Method Token="100663298" Name="ItemEffects" Variables="CB;" ParamCnt="1" />
+<Type Token="33554436" Name="ItemListEditor.st_ItemList" />
+<Field Token="67108865" Name="Item" />
+<Field Token="67108866" Name="CheckSum" />
+<Type Token="33554437" Name="ItemListEditor.st_ItemListItem" />
+<Method Token="100663300" Name="New" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="1" />
+<Field Token="67108867" Name="Name" />
+<Field Token="67108868" Name="Mesh" />
+<Field Token="67108869" Name="Texture" />
+<Field Token="67108870" Name="Level" />
+<Field Token="67108871" Name="Str" />
+<Field Token="67108872" Name="Int" />
+<Field Token="67108873" Name="Dex" />
+<Field Token="67108874" Name="Con" />
+<Field Token="67108875" Name="Effect" />
+<Field Token="67108876" Name="Price" />
+<Field Token="67108877" Name="Unique" />
+<Field Token="67108878" Name="Pos" />
+<Field Token="67108879" Name="Extreme" />
+<Field Token="67108880" Name="Grade" />
+<Type Token="33554439" Name="ItemListEditor.st_ItemListEffects" />
+<Method Token="100663307" Name="New" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Field Token="67108882" Name="Index" />
+<Field Token="67108883" Name="Value" />
+<Type Token="33554440" Name="ItemListEditor.Pak" />
+<Method Token="100663308" Name="ToStruct" Variables="Data;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663309" Name="ToStruct" Variables="Data;Start;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663310" Name="ToByteArray" Variables="Struct;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Type Token="33554441" Name="ItemListEditor.Form1" />
+<Method Token="100663311" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663312" Name="FormShow" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663313" Name="ChangeItemSelect" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663314" Name="SlotChange" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663315" Name="SaveItem" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663316" Name="CancelItem" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663317" Name="CleanItem" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663318" Name="SaveItemListCSV" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;" ParamCnt="3" />
+<Method Token="100663319" Name="SaveItemListBIN" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="3" />
+<Method Token="100663320" Name="FixNumericValues" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663321" Name="LoadItemList" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="1" />
+<Method Token="100663322" Name="LoadItem" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663323" Name="SaveItem" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663324" Name="CheckPosition" Variables="this;Pos;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;" ParamCnt="2" />
+<Method Token="100663325" Name="UpdatePosition" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;" ParamCnt="1" />
+<Method Token="100663326" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663327" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663328" Name="&lt;LoadItemList&gt;b__13_0" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="&lt;LoadItemList&gt;b__13_1" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Field Token="67108884" Name="FilePath" />
+<Field Token="67108885" Name="List" />
+<Field Token="67108886" Name="Editing" />
+<Field Token="67108887" Name="components" />
+<Field Token="67108888" Name="listBox" />
+<Field Token="67108889" Name="label1" />
+<Field Token="67108890" Name="name" />
+<Field Token="67108891" Name="label2" />
+<Field Token="67108892" Name="label3" />
+<Field Token="67108893" Name="label4" />
+<Field Token="67108894" Name="label5" />
+<Field Token="67108895" Name="label6" />
+<Field Token="67108896" Name="label7" />
+<Field Token="67108897" Name="label8" />
+<Field Token="67108898" Name="label9" />
+<Field Token="67108899" Name="label10" />
+<Field Token="67108900" Name="label11" />
+<Field Token="67108901" Name="label12" />
+<Field Token="67108902" Name="label13" />
+<Field Token="67108903" Name="EF1" />
+<Field Token="67108904" Name="label14" />
+<Field Token="67108905" Name="label15" />
+<Field Token="67108906" Name="EF2" />
+<Field Token="67108907" Name="label16" />
+<Field Token="67108908" Name="EF3" />
+<Field Token="67108909" Name="label17" />
+<Field Token="67108910" Name="EF4" />
+<Field Token="67108911" Name="label18" />
+<Field Token="67108912" Name="EF5" />
+<Field Token="67108913" Name="label19" />
+<Field Token="67108914" Name="EF6" />
+<Field Token="67108915" Name="label20" />
+<Field Token="67108916" Name="EF7" />
+<Field Token="67108917" Name="label21" />
+<Field Token="67108918" Name="EF8" />
+<Field Token="67108919" Name="label22" />
+<Field Token="67108920" Name="EF9" />
+<Field Token="67108921" Name="label23" />
+<Field Token="67108922" Name="EF10" />
+<Field Token="67108923" Name="label24" />
+<Field Token="67108924" Name="EF11" />
+<Field Token="67108925" Name="label25" />
+<Field Token="67108926" Name="EF12" />
+<Field Token="67108927" Name="groupBox1" />
+<Field Token="67108928" Name="groupBox2" />
+<Field Token="67108929" Name="label26" />
+<Field Token="67108930" Name="EFV12" />
+<Field Token="67108931" Name="EFV11" />
+<Field Token="67108932" Name="EFV10" />
+<Field Token="67108933" Name="EFV9" />
+<Field Token="67108934" Name="EFV8" />
+<Field Token="67108935" Name="EFV7" />
+<Field Token="67108936" Name="EFV6" />
+<Field Token="67108937" Name="EFV5" />
+<Field Token="67108938" Name="EFV4" />
+<Field Token="67108939" Name="EFV3" />
+<Field Token="67108940" Name="EFV2" />
+<Field Token="67108941" Name="EFV1" />
+<Field Token="67108942" Name="grau" />
+<Field Token="67108943" Name="anct" />
+<Field Token="67108944" Name="unique" />
+<Field Token="67108945" Name="preco" />
+<Field Token="67108946" Name="constituicao" />
+<Field Token="67108947" Name="destreza" />
+<Field Token="67108948" Name="inteligencia" />
+<Field Token="67108949" Name="forca" />
+<Field Token="67108950" Name="level" />
+<Field Token="67108951" Name="textura" />
+<Field Token="67108952" Name="mesh" />
+<Field Token="67108953" Name="save" />
+<Field Token="67108954" Name="cancel" />
+<Field Token="67108955" Name="saveall" />
+<Field Token="67108956" Name="groupBox3" />
+<Field Token="67108957" Name="label27" />
+<Field Token="67108958" Name="slot15" />
+<Field Token="67108959" Name="slot14" />
+<Field Token="67108960" Name="slot13" />
+<Field Token="67108961" Name="slot12" />
+<Field Token="67108962" Name="slot11" />
+<Field Token="67108963" Name="slot10" />
+<Field Token="67108964" Name="slot9" />
+<Field Token="67108965" Name="slot8" />
+<Field Token="67108966" Name="slot7" />
+<Field Token="67108967" Name="slot6" />
+<Field Token="67108968" Name="slot5" />
+<Field Token="67108969" Name="slot4" />
+<Field Token="67108970" Name="slot3" />
+<Field Token="67108971" Name="slot2" />
+<Field Token="67108972" Name="slot1" />
+<Field Token="67108973" Name="slot0" />
+<Field Token="67108974" Name="posicao" />
+<Field Token="67108975" Name="export" />
+<Field Token="67108976" Name="groupBox4" />
+<Field Token="67108977" Name="label28" />
+<Field Token="67108978" Name="groupBox5" />
+<Field Token="67108979" Name="itemBox" />
+<Field Token="67108980" Name="clean" />
+<Type Token="33554442" Name="ItemListEditor.Program" />
+<Method Token="100663330" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554443" Name="ItemListEditor.Properties.Resources" />
+<Method Token="100663331" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name="get_ResourceManager" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663333" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663334" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108981" Name="resourceMan" />
+<Field Token="67108982" Name="resourceCulture" />
+<Type Token="33554444" Name="ItemListEditor.Properties.Settings" />
+<Method Token="100663335" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663337" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Field Token="67108983" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663299" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>

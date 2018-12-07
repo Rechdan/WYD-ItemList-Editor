@@ -1,0 +1,12 @@
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe.config
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.pdb
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.csprojResolveAssemblyReference.cache
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.Properties.Resources.resources
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.csproj.GenerateResource.Cache
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.exe
+c:\users\rechd\documents\visual studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.pdb
+C:\Users\rechd\Documents\Visual Studio 2015\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.FormItemList.resources
+K:\__Documentos\Projects\ItemListEditor\ItemListEditor\bin\Debug\ItemListEditor.exe.config
+K:\__Documentos\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.exe
+K:\__Documentos\Projects\ItemListEditor\ItemListEditor\obj\Debug\ItemListEditor.pdb
